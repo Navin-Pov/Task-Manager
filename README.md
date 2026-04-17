@@ -1,6 +1,6 @@
 # Task-Manager
 A full-stack Task Management web app built with React, Express, Node.js, and MongoDB. Features JWT auth, dark mode, categories, and real-time filtering.
-# MERN Stack Task Manager 📋🚀
+# Stack Task Manager 📋🚀
 
 Welcome to the **Stack Task Management App**! This is a complete, production-ready full-stack application built to demonstrate my ability to design, build, and deploy an end-to-end web system. 
 
